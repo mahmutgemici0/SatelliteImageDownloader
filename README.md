@@ -1,6 +1,6 @@
 "# SatelliteImageDownloader" 
 
-"## How it works
+**How it works?**
 For fixed size(640x640) satellite imagery;
 Enter google maps API Key into FixedSizeGoogleMapsDownloader/lib/satellite_imagery.py line 6
 
