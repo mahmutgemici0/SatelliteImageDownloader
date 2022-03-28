@@ -1,4 +1,4 @@
-"# SatelliteImageDownloader" 
+# SatelliteImageDownloader
 
 **How it works?**
 For fixed size(640x640) satellite imagery;
