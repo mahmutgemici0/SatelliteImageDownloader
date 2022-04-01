@@ -1,2 +1,5 @@
-file_name,, lat_ind, lon_ind, set_name
-airport-data.csv,,23,24, FA1
+file_name,, lat_ind, lon_ind, set_name, folder_name
+PEM.csv,,105,106, PEM_, PEM
+concrete.csv,,105,106, con_, CONCRETE
+bituminous_concrete.csv,,105,106, bit_, BITUMINOUS_CONCRETE
+portland_cement.csv,,105,106, port_, PORTLAND_CEMENT
